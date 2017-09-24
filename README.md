@@ -9,8 +9,12 @@ In this exercise, you'll fix some poorly-written HTML and CSS according to best 
 
 <hr>
 
-Tips and hints:
+Tips:
 
 1. First things first, the folder structure needs some tidying. `ada-lovelace.jpg`, `grace-hopper.jpg` and `katherine-johnson.jpg` should be in an `img` folder. You'll need to change your HTML `<img>` tags to point to their new location.
 2. Does the `index.html` have everything it needs at the top?
 3. All of the code need to be indented correctly.
+4. Your CSS class names will need to be _semantic_.
+5. Make sure there's no unnecessary white space in either your HTML or CSS.
+6. Your images will need `alt` text for accessibility.
+7. Lastly, don't forget your version control with Git! You should `commit` at least three times, and `push` to your forked repo.
