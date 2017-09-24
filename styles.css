@@ -10,19 +10,17 @@ header {
   padding: 2rem;
 }
 
-
-
-
 footer {
   margin-top: 1rem;
-    color: #fff;
-    width: 100%;
-    background-color: #222;
-    padding: 2rem;
+  color: #fff;
+  width: 100%;
+  background-color: #222;
+  padding: 2rem;
 }
 
 .content {
-  width: 960px;margin: 0 auto;
+  width: 960px;
+  margin: 0 auto;
 }
 
 #menu li {
@@ -32,28 +30,24 @@ footer {
 
 h2 {
   margin: 1rem 0;
-    }
-
-.box-1 {
-text-align: center;
 }
 
+.box-1 {
+  text-align: center;
+}
 
 .box-2 {
   text-align: center;
-margin: 2rem;
+  margin: 2rem;
 }
 
 .btn-1 {
-
   padding: 15px;
   margin: 15px 5px;
   text-align: center;
   background: #4787ed;
   border: 2px solid #4787ed;
   color: #FFF;
-
-
 }
 
 .btn-2 {
