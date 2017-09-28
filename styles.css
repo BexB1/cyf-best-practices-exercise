@@ -28,12 +28,16 @@ html, body {
   margin-right: 0.8rem;
 }
 
-h2 {
+.main-header h1 {
   margin: 1rem 0;
 }
 
-.box-1 {
+.picture-title {
   text-align: center;
+}
+
+.picture-title h2 {
+  margin: 1rem 0;
 }
 
 .links {
